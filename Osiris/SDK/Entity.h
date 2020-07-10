@@ -223,6 +223,10 @@ public:
 
     NETVAR(viewModel, "CBasePlayer", "m_hViewModel[0]", int)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    NETVAR(health, "CBasePlayer", "m_iHealth", int)
+>>>>>>> parent of 4330563c... Replace Entity::health netvar with a virtual method
 =======
     NETVAR(health, "CBasePlayer", "m_iHealth", int)
 >>>>>>> parent of 4330563c... Replace Entity::health netvar with a virtual method
